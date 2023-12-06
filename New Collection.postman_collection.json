@@ -1,0 +1,188 @@
+{
+	"info": {
+		"_postman_id": "9e4aa89f-cdc4-4ebc-9f1f-ad33bb944d77",
+		"name": "New Collection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "27218360",
+		"_collection_link": "https://red-water-541576.postman.co/workspace/Team-Workspace~a26f4af1-7886-4210-8d05-07f9cfca07f7/collection/27218360-9e4aa89f-cdc4-4ebc-9f1f-ad33bb944d77?action=share&source=collection_link&creator=27218360"
+	},
+	"item": [
+		{
+			"name": "TEST2",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "www.google.com",
+					"host": [
+						"www",
+						"google",
+						"com"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "TEST2 Copy",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "www.google.com4",
+					"host": [
+						"www",
+						"google",
+						"com4"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "TEST",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "www.google.comQ",
+					"host": [
+						"www",
+						"google",
+						"comQ"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "TEST Copy",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "www.google.comQ",
+					"host": [
+						"www",
+						"google",
+						"comQ"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "TEST Copy",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "www.google.comQ",
+					"host": [
+						"www",
+						"google",
+						"comQ"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "TEST Copy",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "www.google.comQ",
+					"host": [
+						"www",
+						"google",
+						"comQ"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "TEST Copy",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "www.google.comQ",
+					"host": [
+						"www",
+						"google",
+						"comQ"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "TEST Copy 2",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "www.google.comQ",
+					"host": [
+						"www",
+						"google",
+						"comQ"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "TEST Copy 3",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "www.google.comQ?id=456",
+					"host": [
+						"www",
+						"google",
+						"comQ"
+					],
+					"query": [
+						{
+							"key": "id",
+							"value": "456"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "TEST Copy 5",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "www.google.comQ?qwqq=789",
+					"host": [
+						"www",
+						"google",
+						"comQ"
+					],
+					"query": [
+						{
+							"key": "id",
+							"value": "123",
+							"disabled": true
+						},
+						{
+							"key": "qwqq",
+							"value": "789"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
